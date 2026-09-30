@@ -1,0 +1,6 @@
+{
+  "name": "Sahil - AI Personal Finance Advisor",
+  "description": "An intelligent personal finance planning bot that automates budget generation, tracks income and expenses, optimizes savings, and provides personalized wealth coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
